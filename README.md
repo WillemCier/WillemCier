@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Willem Cierenberg
 - 👀 I’m interested in JavaScript, PHP, Python and C++
 - 🌱 I’m currently studing BSC Computer Science
-- 💞️ I’m looking to collaborate on any project
+- 💞️ I’m looking to collaborate on any Python project
 - 📫 You can email me at cierenberg@gmail.com
 
 <!---
